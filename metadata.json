@@ -1,0 +1,7 @@
+{
+  "name": "MEPropAI",
+  "description": "A next-generation real estate development platform bridging capital to construction with AI-driven matching and compliance automation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
